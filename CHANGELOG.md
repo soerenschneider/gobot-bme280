@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.3](https://github.com/soerenschneider/gobot-bme280/compare/v1.7.2...v1.7.3) (2023-10-02)
+
+
+### Bug Fixes
+
+* **deps:** bump github.com/prometheus/client_golang ([#41](https://github.com/soerenschneider/gobot-bme280/issues/41)) ([baa8ac1](https://github.com/soerenschneider/gobot-bme280/commit/baa8ac1fa90275573efa73357cbe68120b5b05af))
+
 ## [1.7.2](https://github.com/soerenschneider/gobot-bme280/compare/v1.7.1...v1.7.2) (2023-07-09)
 
 
